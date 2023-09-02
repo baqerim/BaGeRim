@@ -1,4 +1,4 @@
- https://dev.to/mishmanners/how-to-ena...
+
 
 <h1 align="center">Hi 👋, I'm Bager özkan</h1>
 <h3 align="center">A passionate frontend developer from türkiye</h3>
